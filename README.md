@@ -1,7 +1,7 @@
 # FileCreatorHelper
 Windows Forms App that takes a text file template and creates new versions of that file based on a list of other files' names.
 
-[img]https://cdn.discordapp.com/attachments/671613050205503511/682403265149009975/FileCreator.gif[/img]
+![Example](https://cdn.discordapp.com/attachments/671613050205503511/682403265149009975/FileCreator.gif)
 
 # Template
 Your template file is the template for how to create the files.
